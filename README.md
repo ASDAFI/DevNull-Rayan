@@ -41,4 +41,3 @@ This was a hierarchical clustering problem that required developing a classifica
 
 ---
 
-For more detailed information, including problem statements and explorations, please refer to the corresponding directory in this repository.
